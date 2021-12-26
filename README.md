@@ -20,3 +20,7 @@
 9. At last, in the write Queries section , install all the queries.
 
 10.Now, TigerGraph has been set up
+
+
+You can access the code from [here](https://github.com/Ruhika1417/TigerGraph/blob/main/Covid19-analysis.html). Below is a image illustration  of the dashboard:
+![image](https://user-images.githubusercontent.com/65492460/147408607-df21c8c9-3845-4c2e-b606-ec705b486435.png)
